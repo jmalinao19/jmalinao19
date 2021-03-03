@@ -1,4 +1,37 @@
-### Hi there 👋
+## Welcome to Joe's Page!  👋
+
+### About me
+
+### Education
+
+### Occupation
+
+
+
+
+### Things I know:
+- Python
+- SQL
+- PostgreSQL
+- Bash Shell
+- Git
+- Java
+- Tableau
+- Linux Ubuntu
+- Jupyter Labs
+
+### Things I know and still learning:
+- Docker
+- Airflow
+- VIM
+- MongoDB
+- Apache Cassandra
+- Spark
+
+### Things I want to learn:
+- Nifi
+- Kafka
+- 
 
 <!--
 **jmalinao19/jmalinao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
