@@ -4,17 +4,20 @@ Haven't pushed many of my projects and work on here but I'm working on changing 
 Seeking to contribute more to data focused tools I find useful or interesting.
 
 
-## About me 
-I'm a curious and life long learner interested in a wide variety of subjects but professionally within the intersections of healthcare, operations, data engineering/infrastructure. I previously thought a career in medicine/surgery was my calling until I learned about harnessing data and other technical innovations will drastically change the healthcare/medical field. My journey in technology was unexpected and was purely driven by my curiosity on how information is captured and process within a system to drive analytical insights. This ultimately inspired me to develop cross-functional technical knowledge in data analytics, machine learning, data engineering, and DevOps. I consider myself well rounded and have solid foundation with various data analysis and data engineering concepts/tools, although I'm always seeking ways to continously learn more and improve my skills. 
+## About me 🧑‍💻🧬🩺
+I'm a curious and life long learner interested in a wide variety of subjects but professionally within the intersections of healthcare, operations, data engineering/infrastructure. I previously thought a career in medicine/surgery was my calling until I learned about harnessing data and other technical innovations will drastically change the healthcare/medical field. This was further solidified working within the healthcare industry as an analyst partering with primary care practice physciains. My journey in technology was unexpected and was purely driven by my curiosity on how information is captured and processed within a system to drive analytical insights. This ultimately inspired me to develop cross-functional technical knowledge in data analytics, machine learning, data engineering, and DevOps. 
 
-## Education 
+<br/>
+I consider myself well rounded and have solid foundation with various data analysis and data engineering concepts/tools, although I'm always seeking ways to continously learn more and improve my skills. 
+
+## Education 👨‍🎓
 - **Bachelor:** Pre - Medicine (Minor: Analytics) @ Saint Mary's University of Minnesota _(2017)_
 - **Masters:** Computer Science @ DePaul University (_In Progress_)
 
-## Occupation 
-Currently at Amazon wearing a different hat working in operations to further understand their operational excellence. I'd consider it a hands-on mini "MBA" to see first hand how Amazon fulfills the gargantuan amount of inventory and orders they process daily. Some concepts I've learned inculde: process improvement (Lean/six sigma), their ability to scale, reporting systems, labor tracking/management, and how various tools can help/hinder the operational bottom line. 
+## Occupation 🧑‍💼
+Currently at Amazon wearing a different hat working in operations to further understand their operational excellence by working with managers at their warehouses and delivery stations. I'd consider it a hands-on mini "MBA" to see first hand how Amazon fulfills the gargantuan amount of inventory and orders they process daily. Some concepts I've learned inculde: process improvement (Lean/six sigma), their ability to scale, reporting systems, labor tracking/management, and how various tools can help/hinder the operational bottom line. 
 
-I'm also working on my computer science degree part-time and learning other data tools/systems.
+I'm also working on finishing my computer science degree part-time and learning other data tools/systems.
 
 ## Misc.
 - ❓ **I'm looking for:** a role as a Data Engineer
