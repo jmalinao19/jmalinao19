@@ -1,25 +1,32 @@
-## Welcome to Joe's Page!  👋
+# Welcome to Joe's Page!  👋
 
 Haven't pushed many of my projects and work on here but I'm working on changing that! 
 Seeking to contribute more to data focused tools I find useful or interesting.
 
 
-<ins>### About me </ins>
+## About me 
 I'm a curious and life long learner interested in a wide variety of subjects but professionally within the intersections of healthcare, operations, data engineering/infrastructure. I previously thought a career in medicine/surgery was my calling until I learned about harnessing data and other technical innovations will drastically change the healthcare/medical field. My journey in technology was unexpected and was purely driven by my curiosity on how information is captured and process within a system to drive analytical insights. This ultimately inspired me to develop cross-functional technical knowledge in data analytics, machine learning, data engineering, and DevOps. I consider myself well rounded and have solid foundation with various data analysis and data engineering concepts/tools, although I'm always seeking ways to continously learn more and improve my skills. 
 
-<ins> ### Education </ins>
-Bachelor: Pre - Medicine (Minor: Analytics) @ Saint Mary's University of Minnesota
-Masters: Computer Science @ DePaul University (_In Progress_)
+## Education 
+- **Bachelor:** Pre - Medicine (Minor: Analytics) @ Saint Mary's University of Minnesota _(2017)_
+- **Masters:** Computer Science @ DePaul University (_In Progress_)
 
-<ins> ### Occupation </ins>
-Currently at Amazon wearing a different hat working in operations to further understand their operational excellence. I'd consider it a hands-on mini "MBA" to see first hand how Amazon fulfills the gargantuan amount of inventory and orders they process daily. Some concepts I've learned inculde: process improvement (Lean/6 sigma), their ability to scale, reporting systems, labor tracking/management, and how various tools can help/hinder the operational bottom line. 
+## Occupation 
+Currently at Amazon wearing a different hat working in operations to further understand their operational excellence. I'd consider it a hands-on mini "MBA" to see first hand how Amazon fulfills the gargantuan amount of inventory and orders they process daily. Some concepts I've learned inculde: process improvement (Lean/six sigma), their ability to scale, reporting systems, labor tracking/management, and how various tools can help/hinder the operational bottom line. 
 
 I'm also working on my computer science degree part-time and learning other data tools/systems.
 
+## Misc.
+- ❓ **I'm looking for:** a role as a Data Engineer
+- 📫 **How to reach me:** 
+  - 📧joemalinao19@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/josephmalinao/)
 
 
+ 
+## Just Things
 
-<ins> ### Things I know well: </ins>
+### Things I know well 🧠: 
 - Python (Pandas, Numpy, Petl, sklearn, matplotlib)
 - SQL
 - PostgreSQL
@@ -31,7 +38,7 @@ I'm also working on my computer science degree part-time and learning other data
 - API's
 - OOP
 
-<ins> ### Things I know and still learning: </ins>
+### Things I know and still learning 🤔: 
 - AWS (S3, Redshift, DynamoDB, Amplify, 
 - Boto3 (AWS SDK)
 - Docker
@@ -43,7 +50,7 @@ I'm also working on my computer science degree part-time and learning other data
 - Unix
 - Machine Learning 
 
-<ins> ### Things I want to learn: </ins>
+### Things I want to learn 📖: 
 - Terraform
 - Nifi
 - Kafka
@@ -54,7 +61,7 @@ I'm also working on my computer science degree part-time and learning other data
 - Deep Learning 
 
 
-<ins> ### Other things I know: </ins>
+### Other things I know 💻:
 - C++
 - Java
 - MS SQL Server
